@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body{
+            background: rgb(0, 255, 247);
+        }
+        h1{
+            color: #fff;
+            text-align: center;
+            font-size: 48px;
+        
+        }
+        p{
+            color: rgba(19, 20, 20, 0.844);
+            font-style: italic;
+            text-align: center;
+            font-size:32px;
+        }
+    </style>
+</head>
+<body>
+    <h1>this is the profile of <% = person %></h1>
+    <p>how r uuuuu</p> 
+</body>
+</html>
